@@ -1,34 +1,31 @@
 class Solution {
 public:
-    void parenthesis(int left,int right,int n,vector<string> &res,string &s)
+    void generate(int left,int right,int n,string s,vector<string> &ans)
     {
-        if(s.size() == 2*n)
+        if(s.size() == 2*n) 
         {
-            res.push_back(s);
+            ans.push_back(s);
             return;
         }
 
         if(left < n)
         {
-            s+='(';
-            parenthesis(left+1,right,n,res,s);
+            s.push_back('(');
+            generate(left+1,right,n,s,ans);
             s.pop_back();
         }
 
         if(right < left)
         {
-            s+=')';
-            parenthesis(left,right+1,n,res,s);
+            s.push_back(')');
+            generate(left,right+1,n,s,ans);
             s.pop_back();
         }
     }
+
     vector<string> generateParenthesis(int n) {
-        vector<string> res;
-
-        string s = "";
-
-        parenthesis(0,0,n,res,s);
-
-        return res;
+        vector<string> ans;
+        generate(0,0,n,"",ans);
+        return ans;
     }
 };
