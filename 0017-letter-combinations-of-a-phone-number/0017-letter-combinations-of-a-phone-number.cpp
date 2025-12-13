@@ -2,7 +2,7 @@ class Solution {
 public:
     void findCombinations(int ind, string digits, string& s,
                           vector<string>& mapping, vector<string>& ans) {
-        if (ind >= digits.size())
+        if (ind == digits.size())
         {
             ans.push_back(s);
             return;
