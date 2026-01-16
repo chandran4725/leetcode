@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chandran4725/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/chandran4725/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/chandran4725/leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/chandran4725/leetcode/tree/master/0044-wildcard-matching) |
 | [0165-compare-version-numbers](https://github.com/chandran4725/leetcode/tree/master/0165-compare-version-numbers) |
 | [0516-longest-palindromic-subsequence](https://github.com/chandran4725/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/chandran4725/leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/chandran4725/leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/chandran4725/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/chandran4725/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/chandran4725/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/chandran4725/leetcode/tree/master/0118-pascals-triangle) |
@@ -124,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/chandran4725/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/chandran4725/leetcode/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/chandran4725/leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
