@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/chandran4725/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/chandran4725/leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/chandran4725/leetcode/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/chandran4725/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/chandran4725/leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/chandran4725/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/chandran4725/leetcode/tree/master/0120-triangle) |
@@ -143,4 +144,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/chandran4725/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chandran4725/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/chandran4725/leetcode/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/chandran4725/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
