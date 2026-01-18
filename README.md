@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/chandran4725/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/chandran4725/leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/chandran4725/leetcode/tree/master/0216-combination-sum-iii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/chandran4725/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/chandran4725/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/chandran4725/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/chandran4725/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -115,12 +116,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/chandran4725/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/chandran4725/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/chandran4725/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/chandran4725/leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/chandran4725/leetcode/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/chandran4725/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Database
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chandran4725/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chandran4725/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/chandran4725/leetcode/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/chandran4725/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chandran4725/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1901-find-a-peak-element-ii](https://github.com/chandran4725/leetcode/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
