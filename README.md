@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/chandran4725/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/chandran4725/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chandran4725/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/chandran4725/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/chandran4725/leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/chandran4725/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/chandran4725/leetcode/tree/master/0120-triangle) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/chandran4725/leetcode/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/chandran4725/leetcode/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/chandran4725/leetcode/tree/master/0165-compare-version-numbers) |
 ## Prefix Sum
 |  |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/chandran4725/leetcode/tree/master/0054-spiral-matrix) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/chandran4725/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
