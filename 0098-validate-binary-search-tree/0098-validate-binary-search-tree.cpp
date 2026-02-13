@@ -11,24 +11,18 @@
  */
 class Solution {
 public:
-    void traverse(TreeNode* node,vector<int>& ans)
+    bool traverse(TreeNode* node,long long mini, long long maxi)
     {
-        if(node == NULL) return;
+        if(!node) return true;
 
-        traverse(node->left,ans);
-        ans.push_back(node->val);
-        traverse(node->right,ans);
+        if(node->val >= maxi || node->val <= mini) return false;
+
+        return traverse(node->left,mini,node->val) && traverse(node->right,node->val,maxi);
     }
 
     bool isValidBST(TreeNode* root) {
-        vector<int> ans;
-        traverse(root,ans);
+        
 
-        for(int i=ans.size()-1;i>0;i--)
-        {
-            if(ans[i] <= ans[i-1]) return false;
-        }
-
-        return true;
+        return traverse(root,LLONG_MIN, LLONG_MAX);
     }
 };
