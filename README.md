@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/chandran4725/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chandran4725/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/chandran4725/leetcode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/chandran4725/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/chandran4725/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/chandran4725/leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/chandran4725/leetcode/tree/master/0216-combination-sum-iii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/chandran4725/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/chandran4725/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/chandran4725/leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/chandran4725/leetcode/tree/master/0189-rotate-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/chandran4725/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Memoization
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chandran4725/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/chandran4725/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/chandran4725/leetcode/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/chandran4725/leetcode/tree/master/0189-rotate-array) |
 ## Prefix Sum
 |  |
 | ------- |
