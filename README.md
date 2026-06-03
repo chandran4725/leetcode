@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/chandran4725/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chandran4725/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/chandran4725/leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/chandran4725/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/chandran4725/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/chandran4725/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/chandran4725/leetcode/tree/master/0213-house-robber-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/chandran4725/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chandran4725/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/chandran4725/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/chandran4725/leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/chandran4725/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/chandran4725/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chandran4725/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/chandran4725/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/chandran4725/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chandran4725/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Database
 |  |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/chandran4725/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/chandran4725/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/chandran4725/leetcode/tree/master/0169-majority-element) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chandran4725/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
 |  |
@@ -300,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/chandran4725/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/chandran4725/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chandran4725/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/chandran4725/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
