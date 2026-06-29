@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/chandran4725/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chandran4725/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0931-minimum-falling-path-sum](https://github.com/chandran4725/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/chandran4725/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chandran4725/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1901-find-a-peak-element-ii](https://github.com/chandran4725/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/chandran4725/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chandran4725/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/chandran4725/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/chandran4725/leetcode/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/chandran4725/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/chandran4725/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/chandran4725/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chandran4725/leetcode/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/chandran4725/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chandran4725/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
 |  |
