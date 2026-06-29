@@ -1,42 +1,34 @@
 class Solution {
 public:
-    void mergeFun(vector<int>& arr,int low,int mid,int high)
-    {
-        vector<int> temp;
-        int left = low;
-        int right = mid+1;
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
 
-        while(left <= mid && right <= high)
-        {
-            if(arr[left] <= arr[right]) temp.push_back(arr[left++]);
-            else temp.push_back(arr[right++]);
+        vector<int> res;
+
+        int i = 0, j = 0;
+
+        while (i < m && j < n) {
+            if (nums2[j] > nums1[i]) {
+                res.push_back(nums1[i]);
+                i++;
+            } else if (nums2[j] < nums1[i]) {
+                res.push_back(nums2[j]);
+                j++;
+            } else {
+                res.push_back(nums2[j]);
+                j++;
+            }
         }
 
-        while(left <= mid) temp.push_back(arr[left++]);
-        while(right <= high) temp.push_back(arr[right++]);
-
-        for(int i=low;i<=high;i++)
-        {
-            arr[i] = temp[i-low];
+        while (i < m) {
+            res.push_back(nums1[i]);
+            i++;
         }
-    }
-    void mergeSort(vector<int>& arr,int low,int high)
-    {
-        if(low >= high) return;
 
-        int mid = (low+high)/2;
-
-        mergeSort(arr,low,mid);
-        mergeSort(arr,mid+1,high);
-
-        mergeFun(arr,low,mid,high);
-    }
-    void merge(vector<int>& arr, int n, vector<int>& nums2, int m) {
-        
-        for(int i=0;i<m;i++)
-        {
-            arr[n+i] = nums2[i];
+        while (j < n) {
+            res.push_back(nums2[j]);
+            j++;
         }
-        mergeSort(arr,0,n+m-1);
+
+        nums1 = res;
     }
 };
